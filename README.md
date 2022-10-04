@@ -1,2 +1,2 @@
 # phpCRUD
-This Projects is made by using Core php and MySQL database
+This Projects is made by using Core php, MySQL database, Bootstrap, Javascript.
